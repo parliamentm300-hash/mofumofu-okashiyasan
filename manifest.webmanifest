@@ -1,10 +1,13 @@
 {
+  "id": "./",
   "name": "もふもふ おかしやさん",
   "short_name": "もふもふおかし",
+  "description": "おかねを学べる、かわいいおかしやさんゲーム",
   "lang": "ja",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
+  "orientation": "portrait-primary",
   "background_color": "#fff7ef",
   "theme_color": "#ffe6ed",
   "icons": [
